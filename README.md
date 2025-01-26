@@ -1,4 +1,4 @@
-echo "
+
 # 🌟 Rise-In: Transforming Connections and Opportunities 🌟
 
 Welcome to **Rise-In**, your go-to platform for seamless collaboration, growth, and innovation. Whether you're a farmer, buyer, or enthusiast, Rise-In bridges the gap by creating an efficient, reliable, and secure space for all stakeholders. 🚀  
@@ -27,7 +27,7 @@ Welcome to **Rise-In**, your go-to platform for seamless collaboration, growth, 
 
 1. **Clone the Repository**:  
    \`\`\`bash
-   git clone https://github.com/your-username/rise-in.git
+   git clone https://github.com/Manasi0304/rise-in.git
    cd rise-in
    \`\`\`
 
